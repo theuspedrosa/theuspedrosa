@@ -48,22 +48,6 @@ Atuar como **desenvolvedor de software Python**, aplicando boas práticas de có
 
 ---
 
-### 📫 Contato
-
-<p align="center">
-  <a href="www.linkedin.com/in/matheus-pedrosa-54b591289">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:matpedrosa@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="[https://seuportfolio.com" target="_blank](https://theuspedrosa.github.io/Portfolio/)">
-    <img src="https://img.shields.io/badge/🌐%20Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ## 🌎 English Summary
 
 🎓 **Degree:** Systems Analysis and Development  
