@@ -6,8 +6,9 @@
 
 ### 🎓 Sobre mim
 
-Sou **formado em Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia, inovação e aprendizado constante.  
-Atualmente, estou desenvolvendo minhas habilidades em **Python**, em banco de dados como **SQL** e frameworks web como **Flask** e **Django**, buscando criar soluções reais através dessa linguagem na tecnologia.
+Formado em **Análise e Desenvolvimento de Sistemas**, sou apaixonado por tecnologia, inovação e aprendizado constante.
+
+Tenho me dedicado ao estudo de **Python**, banco de dados (**SQL**) e frameworks web como **Flask** e **Django**, buscando transformar ideias em soluções práticas e inteligentes que façam a diferença através da tecnologia.
 
 ---
 
